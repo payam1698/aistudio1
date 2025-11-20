@@ -1,0 +1,7 @@
+{
+  "name": "Ravankargah Institute",
+  "description": "Professional psychology and counseling training institute website featuring courses, workshops, and faculty information.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
